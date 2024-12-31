@@ -7794,11 +7794,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming Language\\Web\\Web_assissignment\\Web_assissignment.csproj",
+      "projectUniqueName": "C:\\Users\\nour.mohamed\\Desktop\\Nour El den Mohamed 0523066 W4\\Web_assissignment\\Web_assissignment.csproj",
       "projectName": "Web_assissignment",
-      "projectPath": "D:\\Programming Language\\Web\\Web_assissignment\\Web_assissignment.csproj",
+      "projectPath": "C:\\Users\\nour.mohamed\\Desktop\\Nour El den Mohamed 0523066 W4\\Web_assissignment\\Web_assissignment.csproj",
       "packagesPath": "C:\\Users\\nour.mohamed\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming Language\\Web\\Web_assissignment\\obj\\",
+      "outputPath": "C:\\Users\\nour.mohamed\\Desktop\\Nour El den Mohamed 0523066 W4\\Web_assissignment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nour.mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -75,8 +75,7 @@
               "ViewState": "AgIAAE4AAAAAAAAAAAA1wFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T09:18:42.65Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -89,8 +88,7 @@
               "ViewState": "AgIAABIAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-30T10:13:47.088Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -103,8 +101,7 @@
               "ViewState": "AgIAACQAAAAAAAAAAAAywC4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T10:08:39.79Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -114,7 +111,7 @@
               "RelativeDocumentMoniker": "Controllers\\TeamMemberController.cs",
               "ToolTip": "D:\\Programming Language\\Web\\Web_assissignment\\Controllers\\TeamMemberController.cs",
               "RelativeToolTip": "Controllers\\TeamMemberController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAwEAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwEMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T11:49:37.75Z",
               "IsPinned": true,
@@ -130,8 +127,7 @@
               "RelativeToolTip": "Views\\TeamMember\\Update_TeamMember.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-30T12:34:10.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T12:34:10.108Z"
             },
             {
               "$type": "Document",
@@ -143,8 +139,7 @@
               "RelativeToolTip": "Views\\TeamMember\\Delete_teamMember.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-30T12:29:35.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T12:29:35.284Z"
             },
             {
               "$type": "Document",
@@ -156,8 +151,7 @@
               "RelativeToolTip": "Views\\TeamMember\\Get_TeamMember_details.cshtml",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-30T12:03:10.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T12:03:10.755Z"
             },
             {
               "$type": "Document",
@@ -169,8 +163,7 @@
               "RelativeToolTip": "Models\\TeamMember_DetailsViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T12:08:23.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T12:08:23.73Z"
             },
             {
               "$type": "Document",
@@ -182,8 +175,7 @@
               "RelativeToolTip": "Views\\Projectt\\Update_project.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-30T10:46:25.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T10:46:25.769Z"
             },
             {
               "$type": "Document",
@@ -195,8 +187,7 @@
               "RelativeToolTip": "ViewModels\\Project_DetailsViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T09:33:13.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T09:33:13.13Z"
             },
             {
               "$type": "Document",
@@ -208,8 +199,7 @@
               "RelativeToolTip": "MyAppContext.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAswBIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T10:29:01.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T10:29:01.286Z"
             },
             {
               "$type": "Document",
@@ -221,8 +211,7 @@
               "RelativeToolTip": "Views\\Projectt\\Display_All_Projects.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-30T09:20:45.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T09:20:45.134Z"
             },
             {
               "$type": "Document",
@@ -234,8 +223,7 @@
               "RelativeToolTip": "Views\\Projectt\\Delete_project.cshtml",
               "ViewState": "AgIAACMAAAAAAAAAAAAmwC4AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-30T10:03:59.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T10:03:59.321Z"
             }
           ]
         }
