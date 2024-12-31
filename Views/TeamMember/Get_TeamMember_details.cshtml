@@ -1,0 +1,81 @@
+﻿@model Web_assissignment.Models.TeamMember_DetailsViewModel
+
+@{
+    ViewData["Title"] = "Get_TeamMember_details";
+}
+
+<h1>Get_TeamMember_details</h1>
+<div>
+    <h4>Projectt</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.member.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.member.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.member.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.member.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.member.Role)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.member.Role)
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Task Title
+                </th>
+                <th>
+                    Status
+                </th>
+                <th>
+                    Priority
+                </th>
+                <th>
+                    Deadline
+                </th>
+                <th>
+                    Project
+                </th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Tasks_list)
+            {
+                <tr>
+                    <td>@item.Title</td>
+
+                    <td>@item.Status</td>
+
+                    <td>@item.Priority</td>
+
+                    <td>@item.Deadline</td>
+
+
+                    <td>@item.Project.Name</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+<div>
+    @Html.ActionLink("Update", "Update_TeamMember", new { id = Model.member.TeamMember_id }) |
+    @Html.ActionLink("Delete", "Delete_teamMember", new { id = Model.member.TeamMember_id }) |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,80 @@
+﻿@model Web_assissignment.ViewModels.TaskUpdateViewModel
+
+@{
+    ViewData["Title"] = "Update_Task";
+}
+
+<h1>Update_Task</h1>
+
+<h4>Taskk</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Update_Task_red">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <input type="hidden" asp-for="@Model.Task.Task_id" class="form-control" />
+                <span asp-validation-for="@Model.Task.Task_id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Task.Title" class="control-label"></label>
+                <input asp-for="@Model.Task.Title" class="form-control" />
+                <span asp-validation-for="@Model.Task.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Task.Description" class="control-label"></label>
+                <input asp-for="@Model.Task.Description" class="form-control" />
+                <span asp-validation-for="@Model.Task.Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Task.Status" class="control-label"></label>
+                <select asp-for="@Model.Task.Status">
+                    @foreach (var SS in Model.Status_list)
+                    {
+                        <option value="@SS">@SS</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Task.Priority" class="control-label"></label>
+                <select asp-for="@Model.Task.Priority">
+                    @foreach (var Pr in Model.Priority_list)
+                    {
+                        <option value="@Pr">@Pr</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Task.Deadline" class="control-label"></label>
+                <input asp-for="@Model.Task.Deadline" class="form-control" />
+                <span asp-validation-for="@Model.Task.Deadline" class="text-danger"></span>
+            </div>
+            <div style="margin-top:20px" class="form-group">
+                <label style="margin-right:20px;" asp-for="@Model.Task.Project_id" class="control-label">Project : </label>
+                <select asp-for="@Model.Task.Project_id">
+                    @foreach (var project in Model.Projects_list)
+                    {
+                        <option value="@project.Project_id">@project.Name</option>
+                    }
+                </select>
+            </div>
+            <div style="margin-top:20px" class="form-group">
+                <label style="margin-right:20px; margin-bottom:20px" asp-for="@Model.Task.TeamMember_id" class="control-label">Team Member : </label>
+                <select asp-for="@Model.Task.TeamMember_id">
+                    @foreach (var member in Model.Team_members_list)
+                    {
+                        <option value="@member.TeamMember_id" >@member.Name</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

@@ -1,0 +1,53 @@
+﻿@model Web_assissignment.Models.Projectt
+
+@{
+    ViewData["Title"] = "Delete_project";
+}
+
+<h1>Delete_project</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Projectt</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Project_id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Project_id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Start_date)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Start_date)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.End_date)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.End_date)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete_project">
+        <input type="hidden" asp-for="Project_id" value="@Model.Project_id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Display_All_Projects">Back to List</a>
+    </form>
+</div>
+
+@*value="@Model.Project_id"*@

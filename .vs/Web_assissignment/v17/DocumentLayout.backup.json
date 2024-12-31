@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming Language\\Web\\Web_assissignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|d:\\programming language\\web\\web_assissignment\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|solutionrelative:controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|d:\\programming language\\web\\web_assissignment\\views\\teammember\\get_teammember_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|solutionrelative:views\\teammember\\get_teammember_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|d:\\programming language\\web\\web_assissignment\\views\\teammember\\update_teammember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|solutionrelative:views\\teammember\\update_teammember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|d:\\programming language\\web\\web_assissignment\\views\\teammember\\delete_teammember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|solutionrelative:views\\teammember\\delete_teammember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|d:\\programming language\\web\\web_assissignment\\views\\projectt\\delete_project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|solutionrelative:views\\projectt\\delete_project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|d:\\programming language\\web\\web_assissignment\\controllers\\taskkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|solutionrelative:controllers\\taskkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|d:\\programming language\\web\\web_assissignment\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|solutionrelative:myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|d:\\programming language\\web\\web_assissignment\\views\\projectt\\get_project_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|solutionrelative:views\\projectt\\get_project_details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|d:\\programming language\\web\\web_assissignment\\models\\teammember_detailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|solutionrelative:models\\teammember_detailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|d:\\programming language\\web\\web_assissignment\\views\\projectt\\display_all_projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|solutionrelative:views\\projectt\\display_all_projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|d:\\programming language\\web\\web_assissignment\\views\\projectt\\update_project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|solutionrelative:views\\projectt\\update_project.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|d:\\programming language\\web\\web_assissignment\\controllers\\projecttcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|solutionrelative:controllers\\projecttcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|d:\\programming language\\web\\web_assissignment\\viewmodels\\project_detailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C7B87D-1B89-43B2-B0EF-E38F52242D33}|Web_assissignment.csproj|solutionrelative:viewmodels\\project_detailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjecttController.cs",
+              "DocumentMoniker": "D:\\Programming Language\\Web\\Web_assissignment\\Controllers\\ProjecttController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjecttController.cs",
+              "ToolTip": "D:\\Programming Language\\Web\\Web_assissignment\\Controllers\\ProjecttController.cs",
+              "RelativeToolTip": "Controllers\\ProjecttController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAA1wFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:18:42.65Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Get_Project_Details.cshtml",
+              "DocumentMoniker": "D:\\Programming Language\\Web\\Web_assissignment\\Views\\Projectt\\Get_Project_Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Projectt\\Get_Project_Details.cshtml",
+              "ToolTip": "D:\\Programming Language\\Web\\Web_assissignment\\Views\\Projectt\\Get_Project_Details.cshtml",
+              "RelativeToolTip": "Views\\Projectt\\Get_Project_Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:13:47.088Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskkController.cs",
+              "DocumentMoniker": "D:\\Programming Language\\Web\\Web_assissignment\\Controllers\\TaskkController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskkController.cs",
+              "ToolTip": "D:\\Programming Language\\Web\\Web_assissignment\\Controllers\\TaskkController.cs",
+              "RelativeToolTip": "Controllers\\TaskkController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAywC4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:08:39.79Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamMemberController.cs",
+              "DocumentMoniker": "D:\\Programming Language\\Web\\Web_assissignment\\Controllers\\TeamMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeamMemberController.cs",
+              "ToolTip": "D:\\Programming Language\\Web\\Web_assissignment\\Controllers\\TeamMemberController.cs",
+              "RelativeToolTip": "Controllers\\TeamMemberController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwEAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:49:37.75Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update_TeamMember.cshtml",
+              "DocumentMoniker": "D:\\Programming Language\\Web\\Web_assissignment\\Views\\TeamMember\\Update_TeamMember.cshtml",
+              "RelativeDocumentMoniker": "Views\\TeamMember\\Update_TeamMember.cshtml",
+              "ToolTip": "D:\\Programming Language\\Web\\Web_assissignment\\Views\\TeamMember\\Update_TeamMember.cshtml",
+              "RelativeToolTip": "Views\\TeamMember\\Update_TeamMember.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T12:34:10.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete_teamMember.cshtml",
+              "DocumentMoniker": "D:\\Programming Language\\Web\\Web_assissignment\\Views\\TeamMember\\Delete_teamMember.cshtml",
+              "RelativeDocumentMoniker": "Views\\TeamMember\\Delete_teamMember.cshtml",
+              "ToolTip": "D:\\Programming Language\\Web\\Web_assissignment\\Views\\TeamMember\\Delete_teamMember.cshtml",
+              "RelativeToolTip": "Views\\TeamMember\\Delete_teamMember.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T12:29:35.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Get_TeamMember_details.cshtml",
+              "DocumentMoniker": "D:\\Programming Language\\Web\\Web_assissignment\\Views\\TeamMember\\Get_TeamMember_details.cshtml",
+              "RelativeDocumentMoniker": "Views\\TeamMember\\Get_TeamMember_details.cshtml",
+              "ToolTip": "D:\\Programming Language\\Web\\Web_assissignment\\Views\\TeamMember\\Get_TeamMember_details.cshtml",
+              "RelativeToolTip": "Views\\TeamMember\\Get_TeamMember_details.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T12:03:10.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeamMember_DetailsViewModel.cs",
+              "DocumentMoniker": "D:\\Programming Language\\Web\\Web_assissignment\\Models\\TeamMember_DetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\TeamMember_DetailsViewModel.cs",
+              "ToolTip": "D:\\Programming Language\\Web\\Web_assissignment\\Models\\TeamMember_DetailsViewModel.cs",
+              "RelativeToolTip": "Models\\TeamMember_DetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T12:08:23.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Update_project.cshtml",
+              "DocumentMoniker": "D:\\Programming Language\\Web\\Web_assissignment\\Views\\Projectt\\Update_project.cshtml",
+              "RelativeDocumentMoniker": "Views\\Projectt\\Update_project.cshtml",
+              "ToolTip": "D:\\Programming Language\\Web\\Web_assissignment\\Views\\Projectt\\Update_project.cshtml",
+              "RelativeToolTip": "Views\\Projectt\\Update_project.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:46:25.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Project_DetailsViewModel.cs",
+              "DocumentMoniker": "D:\\Programming Language\\Web\\Web_assissignment\\ViewModels\\Project_DetailsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Project_DetailsViewModel.cs",
+              "ToolTip": "D:\\Programming Language\\Web\\Web_assissignment\\ViewModels\\Project_DetailsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\Project_DetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:33:13.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyAppContext.cs",
+              "DocumentMoniker": "D:\\Programming Language\\Web\\Web_assissignment\\MyAppContext.cs",
+              "RelativeDocumentMoniker": "MyAppContext.cs",
+              "ToolTip": "D:\\Programming Language\\Web\\Web_assissignment\\MyAppContext.cs",
+              "RelativeToolTip": "MyAppContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:29:01.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Display_All_Projects.cshtml",
+              "DocumentMoniker": "D:\\Programming Language\\Web\\Web_assissignment\\Views\\Projectt\\Display_All_Projects.cshtml",
+              "RelativeDocumentMoniker": "Views\\Projectt\\Display_All_Projects.cshtml",
+              "ToolTip": "D:\\Programming Language\\Web\\Web_assissignment\\Views\\Projectt\\Display_All_Projects.cshtml",
+              "RelativeToolTip": "Views\\Projectt\\Display_All_Projects.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:20:45.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete_project.cshtml",
+              "DocumentMoniker": "D:\\Programming Language\\Web\\Web_assissignment\\Views\\Projectt\\Delete_project.cshtml",
+              "RelativeDocumentMoniker": "Views\\Projectt\\Delete_project.cshtml",
+              "ToolTip": "D:\\Programming Language\\Web\\Web_assissignment\\Views\\Projectt\\Delete_project.cshtml",
+              "RelativeToolTip": "Views\\Projectt\\Delete_project.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwC4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T10:03:59.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

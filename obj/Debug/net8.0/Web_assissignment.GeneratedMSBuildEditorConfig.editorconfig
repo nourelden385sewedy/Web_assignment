@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Web_assissignment
+build_property.RootNamespace = Web_assissignment
+build_property.ProjectDir = D:\Programming Language\Web\Web_assissignment\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Programming Language\Web\Web_assissignment
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Programming Language/Web/Web_assissignment/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming Language/Web/Web_assissignment/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming Language/Web/Web_assissignment/Views/Projectt/Create_project.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHRcQ3JlYXRlX3Byb2plY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming Language/Web/Web_assissignment/Views/Projectt/Delete_project.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHRcRGVsZXRlX3Byb2plY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming Language/Web/Web_assissignment/Views/Projectt/Display_All_Projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHRcRGlzcGxheV9BbGxfUHJvamVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming Language/Web/Web_assissignment/Views/Projectt/Get_Project_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHRcR2V0X1Byb2plY3RfRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming Language/Web/Web_assissignment/Views/Projectt/Update_project.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdHRcVXBkYXRlX3Byb2plY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming Language/Web/Web_assissignment/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming Language/Web/Web_assissignment/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming Language/Web/Web_assissignment/Views/Taskk/Update_Task.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza2tcVXBkYXRlX1Rhc2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming Language/Web/Web_assissignment/Views/TeamMember/Delete_teamMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbU1lbWJlclxEZWxldGVfdGVhbU1lbWJlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming Language/Web/Web_assissignment/Views/TeamMember/Get_TeamMember_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbU1lbWJlclxHZXRfVGVhbU1lbWJlcl9kZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming Language/Web/Web_assissignment/Views/TeamMember/Update_TeamMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbU1lbWJlclxVcGRhdGVfVGVhbU1lbWJlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming Language/Web/Web_assissignment/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming Language/Web/Web_assissignment/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programming Language/Web/Web_assissignment/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-thc7lqd4gx

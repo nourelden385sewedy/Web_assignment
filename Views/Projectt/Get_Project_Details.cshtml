@@ -1,0 +1,97 @@
+﻿@model Web_assissignment.ViewModels.Project_DetailsViewModel
+
+@* @{
+    ViewData["Title"] = "Get_Project_Details";
+} *@
+
+<h1>Project Details Page</h1>
+
+<div>
+    <h4>Projectt</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Proj.Project_id)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Proj.Project_id)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Proj.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Proj.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Proj.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Proj.Description)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Proj.Start_date)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Proj.Start_date)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Proj.End_date)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Proj.End_date)
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Task Title
+                </th>
+                <th>
+                    Status
+                </th>
+                <th>
+                    Priority
+                </th>
+                <th>
+                    Deadline
+                </th>
+                <th>
+                    Team Member
+                </th>
+                <th>
+                    Operations
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Tasks_list)
+            {
+                <tr>
+                    <td>@item.Title</td>
+
+                    <td>@item.Status</td>
+
+                    <td>@item.Priority</td>
+
+                    <td>@item.Deadline</td>
+
+
+                    <td><a asp-controller="TeamMember" asp-route-id="@item.TeamMember_id" asp-action="Get_TeamMember_details">@item.TeamMember.Name</a></td>
+                    
+                    <td>
+                        <form asp-controller="Taskk" asp-route-id="@item.Task_id" asp-action="Update_Task">
+                            <input type="hidden" value="@item.Task_id" />
+                            <input type="submit" value="Update" class="btn btn-primary" />
+                        </form>
+                    
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

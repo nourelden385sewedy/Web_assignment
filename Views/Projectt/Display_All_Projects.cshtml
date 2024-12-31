@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Web_assissignment.Models.Projectt>
+
+@{
+    ViewData["Title"] = "Display_All_Projects";
+}
+
+<h1>Display_All_Projects</h1>
+
+<p>
+    <a asp-action="Create_project">Create New Project</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Project_id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Start_date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.End_date)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Project_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Start_date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.End_date)
+            </td>
+            <td>
+                @Html.ActionLink("Update", "Update_project", new { id = item.Project_id }) |
+                @Html.ActionLink("Details", "Get_Project_Details", new { id = item.Project_id }) |
+                @Html.ActionLink("Delete", "Delete_project", new { id = item.Project_id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
