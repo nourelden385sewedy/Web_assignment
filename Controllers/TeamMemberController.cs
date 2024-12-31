@@ -70,6 +70,11 @@ namespace Web_assissignment.Controllers
             return RedirectToAction("Display_All_Projects", "Projectt");
         }
 
+        public IActionResult Hello()
+        {
+            return View();
+        }
+
 
     }
 }
